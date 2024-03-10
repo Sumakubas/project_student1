@@ -15,7 +15,7 @@ public class student1 extends course_del {
         return sem;
     }
 
-   // public static void main(String args[]) {
+   /public static void main(String args[]) {
         student1 s1 = new student1();
 
         System.out.println("Name is: " + s1.getname());
